@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<liga20192020>
+<oro>
+  <jugador>
+    <categoria> ORO </categoria>
+    <numero> 1 </numero>
+    <nombre> DIEGO HERNANDO </nombre>
+  </jugador>
+  <jugador>
+    <categoria> ORO </categoria>
+    <numero> 2 </numero>
+    <nombre> DAVID MERINO </nombre>
+  </jugador>
+  <jugador>
+    <categoria> ORO </categoria>
+    <numero> 3 </numero>
+    <nombre> RUBEN GARCIA </nombre>
+  </jugador>
+  <jugador>
+    <categoria> ORO </categoria>
+    <numero> 4 </numero>
+    <nombre> FERNANDO JIMENEZ </nombre>
+  </jugador>
+  <jugador>
+    <categoria> ORO </categoria>
+    <numero> 5 </numero>
+    <nombre> JORGE VARGAS </nombre>
+  </jugador>
+  <jugador>
+    <categoria> ORO </categoria>
+    <numero> 6 </numero>
+    <nombre> RAMIRO HERRANZ </nombre>
+  </jugador>
+  <jugador>
+    <categoria> ORO </categoria>
+    <numero> 7 </numero>
+    <nombre> IGNACIO MURIEL </nombre>
+  </jugador>
+  <jugador>
+    <categoria> ORO </categoria>
+    <numero> 8 </numero>
+    <nombre> JUANAN GARCIA </nombre>
+  </jugador>
+  <jugador>
+    <categoria> ORO </categoria>
+    <numero> 9 </numero>
+    <nombre> A. SANCHEZ GUINEA </nombre>
+  </jugador>
+</oro>
+<plata>
+<jugador>
+  <categoria> PLATA </categoria>
+  <numero> 1 </numero>
+  <nombre> EDGAR HIDALGO </nombre>
+</jugador>
+<jugador>
+  <categoria> PLATA </categoria>
+  <numero> 2 </numero>
+  <nombre> NACHO ALVAREZ </nombre>
+</jugador>
+<jugador>
+  <categoria> PLATA </categoria>
+  <numero> 3 </numero>
+  <nombre> LUIS FERNANDO </nombre>
+</jugador>
+<jugador>
+  <categoria> PLATA </categoria>
+  <numero> 4 </numero>
+  <nombre> CESAR SANCHEZ </nombre>
+</jugador>
+<jugador>
+  <categoria> PLATA </categoria>
+  <numero> 5 </numero>
+  <nombre> LUIS BLANCO </nombre>
+</jugador>
+<jugador>
+  <categoria> PLATA </categoria>
+  <numero> 6 </numero>
+  <nombre> FERNANDO GLEZ </nombre>
+</jugador>
+<jugador>
+  <categoria> PLATA </categoria>
+  <numero> 7 </numero>
+  <nombre> ISMAEL SALGUERO (BAJA) </nombre>
+</jugador>
+<jugador>
+  <categoria> PLATA </categoria>
+  <numero> 8 </numero>
+  <nombre> FCO. GALAN </nombre>
+</jugador>
+<jugador>
+  <categoria> PLATA </categoria>
+  <numero> 9 </numero>
+  <nombre> L.MIGUEL ALDEA </nombre>
+</jugador>
+</plata>
+<bronce>
+<jugador>
+  <categoria> BRONCE </categoria>
+  <numero> 1 </numero>
+  <nombre> FELIX RODRIGUEZ  </nombre>
+</jugador>
+<jugador>
+  <categoria> BRONCE </categoria>
+  <numero> 2 </numero>
+  <nombre> ROBERTO GALISTEO </nombre>
+</jugador>
+<jugador>
+  <categoria> BRONCE </categoria>
+  <numero> 3 </numero>
+  <nombre> JOAQUIN POZO </nombre>
+</jugador>
+<jugador>
+  <categoria> BRONCE </categoria>
+  <numero> 4 </numero>
+  <nombre> ROBERTO MARTIN </nombre>
+</jugador>
+<jugador>
+  <categoria> BRONCE </categoria>
+  <numero> 5 </numero>
+  <nombre> J.IGNACIO DIAZ </nombre>
+</jugador>
+<jugador>
+  <categoria> BRONCE </categoria>
+  <numero> 6 </numero>
+  <nombre> ALVARO DE ARRIBA </nombre>
+</jugador>
+<jugador>
+  <categoria> BRONCE </categoria>
+  <numero> 7 </numero>
+  <nombre> DAVID CORDOVA </nombre>
+</jugador>
+<jugador>
+  <categoria> BRONCE </categoria>
+  <numero> 8 </numero>
+  <nombre> MIGUEL A.TORRES </nombre>
+</jugador>
+<jugador>
+  <categoria> BRONCE </categoria>
+  <numero> 9 </numero>
+  <nombre> VICTOR MORALEDA  </nombre>
+</jugador>
+</bronce>
+</liga20192020>

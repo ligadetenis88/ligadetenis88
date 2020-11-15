@@ -1,0 +1,10 @@
+Cpanel Username: b17_22754348
+Cpanel Password: L1G4D3T3N1S88
+Your URL: http://ligadetenis88.byethost17.com or http://www.ligadetenis88.byethost17.com
+FTP Server : ftpupload.net
+FTP Login : b17_22754348
+FTP Password : L1G4D3T3N1S88
+MySQL Database Name: MUST CREATE IN CPANEL
+MySQL Username : b17_22754348
+MySQL Password : L1G4D3T3N1S88
+MySQL Server: SEE THE CPANEL
